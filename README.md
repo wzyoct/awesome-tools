@@ -28,9 +28,9 @@
 ## 代理/网络
 
 - **ShellCrash** — 运行在路由器/Linux 上的 Clash 代理客户端，适合旁路由/网关场景
-  - https://github.com/juewuy/ShellCrash
+  - GitHub：https://github.com/juewuy/ShellCrash
 - **FlClash** — 基于 Flutter 的多平台 Clash 客户端，覆盖 Windows/macOS/Linux/Android
-  - https://github.com/chen08209/FlClash
+  - GitHub：https://github.com/chen08209/FlClash
 
 ## 文件搜索
 
@@ -40,7 +40,7 @@
 ## 系统工具
 
 - **FanControl** — 轻量级 Windows 风扇转速控制工具
-  - https://github.com/Rem0o/FanControl.Releases
+  - GitHub：https://github.com/Rem0o/FanControl.Releases
 - **图吧工具箱** — 硬件检测工具大合集，绿色免安装，装机验机必备
   - 官网：https://www.tbtool.cn/
 - **Windows11轻松设置** — Windows 11 一键优化/配置工具
@@ -61,7 +61,7 @@
 - **Syncplay** — 多人远程同步观影工具，支持 mpv/VLC/mpc 等多种播放器，异地一起看电影必备
   - 官网：https://syncplay.pl/download/
 - **mpv** — 极简高性能开源媒体播放器，高度可定制，命令行/脚本友好
-  - https://github.com/shinchiro/mpv-winbuild-cmake
+  - GitHub：https://github.com/shinchiro/mpv-winbuild-cmake
 
 ## 安全
 
@@ -73,7 +73,7 @@
 - **Steam** — 全球最大 PC 游戏平台，购买、下载、管理、社区一站式搞定
   - 官网：https://store.steampowered.com/
 - **Game Cheats Manager** — 开源单机游戏修改器管理工具，聚合 Fling、小幸等多个 Trainer 来源，支持中英文搜索，一键下载更新
-  - https://github.com/dyang886/Game-Cheats-Manager
+  - GitHub：https://github.com/dyang886/Game-Cheats-Manager
 
 ## 输入法
 
@@ -90,19 +90,19 @@
 ## Android 工具
 
 - **Magisk** — Android 开源 root 方案，systemless 模式不破坏 OTA 更新，通过模块扩展系统功能，支持 Android 6.0+
-  - https://github.com/topjohnwu/Magisk
+  - GitHub：https://github.com/topjohnwu/Magisk
 - **LSPosed** — 基于 Magisk 的 Xposed 框架延续，API 完全兼容原版 Xposed，通过模块修改系统和应用行为，支持 Android 8.1~14（⚠️ 项目已于 2026 年 5 月归档，不再维护）
-  - https://github.com/lsposed/lsposed
+  - GitHub：https://github.com/lsposed/lsposed
 
 ## 文件传输
 
 - **LocalSend** — 开源跨平台局域网文件传输工具，覆盖 Windows/macOS/Linux/Android/iOS，端到端加密，无需注册，数据不经服务器
-  - https://github.com/localsend/localsend
+  - GitHub：https://github.com/localsend/localsend
 
 ## 下载工具
 
 - **Bili23-Downloader** — 开源跨平台 B站视频下载工具，支持多线程下载、音视频分离、弹幕/元数据获取，覆盖 Windows/macOS/Linux
-  - https://github.com/ScottSloan/Bili23-Downloader
+  - GitHub：https://github.com/ScottSloan/Bili23-Downloader
 
 ## 文件管理
 
