@@ -9,13 +9,16 @@
 | [压缩/解压](#压缩解压) | 1 |
 | [代理/网络](#代理网络) | 2 |
 | [文件搜索](#文件搜索) | 1 |
-| [系统工具](#系统工具) | 6 |
+| [系统工具](#系统工具) | 7 |
 | [多媒体](#多媒体) | 2 |
 | [安全](#安全) | 1 |
 | [游戏](#游戏) | 2 |
 | [输入法](#输入法) | 1 |
 | [浏览器](#浏览器) | 2 |
 | [Android 工具](#android-工具) | 2 |
+| [文件传输](#文件传输) | 1 |
+| [下载工具](#下载工具) | 1 |
+| [文件管理](#文件管理) | 1 |
 
 ## 压缩/解压
 
@@ -50,6 +53,8 @@
   - 官网：https://www.ventoy.net/cn/
 - **ITELLOYOU（我告诉你）** — 运营 18 年的原版系统镜像下载入口，提供微软官方 Windows、Office 等原版镜像的获取方法和使用指导，不捆绑第三方软件，装机必备资源站
   - 官网：https://next.itellyou.cn/
+- **Dynamic Theme** — Windows 动态壁纸工具，自动使用 Bing 每日图片或 Windows 聚焦图片更换桌面和锁屏壁纸，免费无广告
+  - 官网：https://apps.pinnula.ca/en/
 
 ## 多媒体
 
@@ -88,6 +93,21 @@
   - 官网：https://github.com/topjohnwu/Magisk
 - **LSPosed** — 基于 Magisk Zygisk 的 Xposed 框架延续，API 完全兼容原版 Xposed，可在不修改 APK 的情况下通过模块修改系统和应用行为，支持 Android 8.1~14（⚠️ 项目已于 2026 年 5 月归档，不再活跃维护）
   - 官网：https://github.com/lsposed/lsposed
+
+## 文件传输
+
+- **LocalSend** — 开源跨平台局域网文件传输工具，支持 Windows/macOS/Linux/Android/iOS，端到端 HTTPS 加密，无需注册登录，数据不经过服务器，GitHub 7万星
+  - 官网：https://localsend.org/
+
+## 下载工具
+
+- **Bili23-Downloader** — 开源跨平台 B站视频下载工具，支持多线程下载、音视频分离、弹幕元数据获取，Python + PySide6，支持 Windows/macOS/Linux
+  - 官网：https://github.com/ScottSloan/Bili23-Downloader
+
+## 文件管理
+
+- **WizTree** — 极速磁盘空间分析工具，直接读取 NTFS 主文件表（MFT），扫描速度是 WinDirStat 的 46 倍，树状图可视化文件大小，个人免费
+  - 官网：https://diskanalyzer.com/
 
 ---
 
