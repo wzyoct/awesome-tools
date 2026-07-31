@@ -9,11 +9,13 @@
 | [压缩/解压](#压缩解压) | 1 |
 | [代理/网络](#代理网络) | 2 |
 | [文件搜索](#文件搜索) | 1 |
-| [系统工具](#系统工具) | 4 |
+| [系统工具](#系统工具) | 6 |
 | [多媒体](#多媒体) | 2 |
 | [安全](#安全) | 1 |
 | [游戏](#游戏) | 2 |
 | [输入法](#输入法) | 1 |
+| [浏览器](#浏览器) | 2 |
+| [Android 工具](#android-工具) | 2 |
 
 ## 压缩/解压
 
@@ -44,6 +46,10 @@
   - 蓝奏盘：https://oyksoft.lanzouu.com/b009i45tzc （密码：95ag）
 - **HiBit Uninstaller** — 免费的软件卸载工具，支持强制卸载、残留清理、注册表修复、启动项管理等，有安装版和便携版
   - 官网：https://www.hibitsoft.ir/Uninstaller.html
+- **Ventoy** — 开源多系统启动管理器，无需反复格式化U盘，直接将 ISO/WIM/IMG/VHD 等镜像文件拷贝到U盘即可启动，一个U盘可同时存放多个系统镜像，支持 Legacy BIOS 和 UEFI（含安全启动），已测试兼容 1400+ 镜像
+  - 官网：https://www.ventoy.net/cn/
+- **ITELLOYOU（我告诉你）** — 运营 18 年的原版系统镜像下载入口，提供微软官方 Windows、Office 等原版镜像的获取方法和使用指导，不捆绑第三方软件，装机必备资源站
+  - 官网：https://next.itellyou.cn/
 
 ## 多媒体
 
@@ -68,6 +74,20 @@
 
 - **微信输入法** — 腾讯出品的简洁输入法，无广告，支持多平台剪贴板同步（设备 A 复制、设备 B 粘贴），电脑手机交互非常方便
   - 官网：https://z.weixin.qq.com/
+
+## 浏览器
+
+- **Google Chrome** — Google 出品的浏览器，基于 Chromium，速度快、扩展生态丰富、开发者工具强大
+  - 官网：https://www.google.com/chrome/
+- **Firefox** — Mozilla 出品的独立浏览器，隐私保护为核心，内置跟踪器拦截，不销售用户数据，支持 30000+ 扩展
+  - 官网：https://www.firefox.com/
+
+## Android 工具
+
+- **Magisk** — Android 开源 root 解决方案（systemless），支持通过模块修改系统而不破坏 OTA 更新，内置 MagiskSU（root 权限）、Magisk Modules（模块系统）、Zygisk（进程注入），支持 Android 6.0+
+  - 官网：https://github.com/topjohnwu/Magisk
+- **LSPosed** — 基于 Magisk Zygisk 的 Xposed 框架延续，API 完全兼容原版 Xposed，可在不修改 APK 的情况下通过模块修改系统和应用行为，支持 Android 8.1~14（⚠️ 项目已于 2026 年 5 月归档，不再活跃维护）
+  - 官网：https://github.com/lsposed/lsposed
 
 ---
 
