@@ -77,7 +77,7 @@
 
 ## 输入法
 
-- **微信输入法** — 腾讯出品的简洁输入法，无广告，支持多平台剪贴板同步（电脑复制、手机粘贴），跨设备协作很方便
+- **微信输入法** — 腾讯出品的跨平台输入法，支持 Windows/macOS/Android/iOS，最大亮点是多设备剪贴板同步——电脑上复制的内容可以直接在手机上粘贴，无广告，适合多设备用户
   - 官网：https://z.weixin.qq.com/
 
 ## 浏览器
@@ -97,7 +97,7 @@
 ## 文件传输
 
 - **LocalSend** — 开源跨平台局域网文件传输工具，覆盖 Windows/macOS/Linux/Android/iOS，端到端加密，无需注册，数据不经服务器
-  - 官网：https://localsend.org/
+  - 官网：https://github.com/localsend/localsend
 
 ## 下载工具
 
