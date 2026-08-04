@@ -19,6 +19,7 @@
 | [文件传输](#文件传输) | 1 |
 | [下载工具](#下载工具) | 1 |
 | [文件管理](#文件管理) | 1 |
+| [AI 工具](#ai-工具) | 1 |
 
 ## 压缩/解压
 
@@ -108,6 +109,11 @@
 
 - **WizTree** — 极速磁盘空间分析工具，直接读取 NTFS 主文件表实现秒级扫描，树状图可视化，个人免费
   - 官网：https://diskanalyzer.com/
+
+## AI 工具
+
+- **OfficeCLI** — 专为 AI Agent 设计的 Office 文档命令行工具，支持 Word/Excel/PPT 的读写操作和公式计算，无需安装 Office
+  - GitHub：https://github.com/iOfficeAI/OfficeCLI
 
 ---
 
