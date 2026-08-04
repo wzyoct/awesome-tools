@@ -19,7 +19,7 @@
 | [文件传输](#文件传输) | 1 |
 | [下载工具](#下载工具) | 1 |
 | [文件管理](#文件管理) | 1 |
-| [AI 工具](#ai-工具) | 1 |
+| [AI 工具](#ai-工具) | 2 |
 
 ## 压缩/解压
 
@@ -114,6 +114,8 @@
 
 - **OfficeCLI** — 专为 AI Agent 设计的 Office 文档命令行工具，支持 Word/Excel/PPT 的读写操作和公式计算，无需安装 Office
   - GitHub：https://github.com/iOfficeAI/OfficeCLI
+- **Matt Pocock Skills** — Claude Code 技能集合，涵盖需求澄清（grilling）、领域建模、TDD、代码审查等工程实践，帮助 AI 编程助手更高效地协作
+  - GitHub：https://github.com/mattpocock/skills
 
 ---
 
