@@ -1,4 +1,4 @@
-# 🧰 Awesome Tools
+﻿# 🧰 Awesome Tools
 
 个人好用工具软件收藏清单，持续更新中。
 
@@ -10,7 +10,7 @@
 | [代理/网络](#代理网络) | 2 |
 | [文件搜索](#文件搜索) | 1 |
 | [系统工具](#系统工具) | 7 |
-| [多媒体](#多媒体) | 2 |
+| [多媒体](#多媒体) | 3 |
 | [安全](#安全) | 1 |
 | [游戏](#游戏) | 2 |
 | [输入法](#输入法) | 1 |
@@ -63,6 +63,8 @@
   - 官网：https://syncplay.pl/download/
 - **mpv** — 极简高性能开源媒体播放器，高度可定制，命令行/脚本友好
   - GitHub：https://github.com/shinchiro/mpv-winbuild-cmake
+- **SubRenamer** — 字幕文件批量改名工具，自动匹配视频文件名，支持多语言、正则匹配、自动调轴，跨平台（Windows/macOS/Linux）
+  - GitHub：https://github.com/qwqcode/SubRenamer
 
 ## 安全
 
