@@ -12,7 +12,7 @@
 | [系统工具](#系统工具) | 7 |
 | [多媒体](#多媒体) | 3 |
 | [安全](#安全) | 1 |
-| [游戏](#游戏) | 2 |
+| [游戏](#游戏) | 3 |
 | [输入法](#输入法) | 1 |
 | [浏览器](#浏览器) | 2 |
 | [Android 工具](#android-工具) | 2 |
@@ -75,6 +75,9 @@
 
 - **Steam** — 全球最大 PC 游戏平台，购买、下载、管理、社区一站式搞定
   - 官网：https://store.steampowered.com/
+- **Watt Toolkit** — 免费开源的多功能 Steam 工具箱，支持 Steam/GitHub/Discord/Epic 等多平台网络加速（本地 hosts 方式，非 VPN），一键切换 Steam 账号，覆盖 Windows/macOS/Linux/Android
+  - 官网：https://steampp.net/
+  - GitHub：https://github.com/BeyondDimension/SteamTools
 - **Game Cheats Manager** — 开源单机游戏修改器管理工具，聚合 Fling、小幸等多个 Trainer 来源，支持中英文搜索，一键下载更新
   - GitHub：https://github.com/dyang886/Game-Cheats-Manager
 
