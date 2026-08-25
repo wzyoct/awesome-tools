@@ -9,8 +9,8 @@
 | [压缩/解压](#压缩解压) | 1 |
 | [代理/网络](#代理网络) | 2 |
 | [文件搜索](#文件搜索) | 1 |
-| [系统工具](#系统工具) | 7 |
-| [多媒体](#多媒体) | 3 |
+| [系统工具](#系统工具) | 8 |
+| [多媒体](#多媒体) | 4 |
 | [安全](#安全) | 1 |
 | [游戏](#游戏) | 3 |
 | [输入法](#输入法) | 1 |
@@ -19,7 +19,7 @@
 | [文件传输](#文件传输) | 1 |
 | [下载工具](#下载工具) | 1 |
 | [文件管理](#文件管理) | 1 |
-| [AI 工具](#ai-工具) | 2 |
+| [AI 工具](#ai-工具) | 4 |
 
 ## 压缩/解压
 
@@ -56,6 +56,8 @@
   - 官网：https://next.itellyou.cn/
 - **Dynamic Theme** — Windows 动态壁纸工具，自动用 Bing 每日图片或 Windows 聚焦图片更换桌面和锁屏壁纸，免费无广告
   - 官网：https://apps.pinnula.ca/en/
+- **Document Format GUI（公文格式处理工具）** — 本地离线的 Word 文档格式修复工具，支持一键规范标点、字体、页边距、行距、序号和表格，可批量处理；覆盖 Windows/macOS/Linux，Windows 支持 `.docx`、`.doc`、`.wps`
+  - GitHub：https://github.com/KaguraNanaga/docformat-gui
 
 ## 多媒体
 
@@ -65,6 +67,8 @@
   - GitHub：https://github.com/shinchiro/mpv-winbuild-cmake
 - **SubRenamer** — 字幕文件批量改名工具，自动匹配视频文件名，支持多语言、正则匹配、自动调轴，跨平台（Windows/macOS/Linux）
   - GitHub：https://github.com/qwqcode/SubRenamer
+- **小雅 Alist（xiaoya-alist）** — 小雅 Alist 周边的一站式 Docker 部署与管理脚本，支持安装、更新和卸载小雅 Alist、Emby、Jellyfin、元数据爬虫、115 清理助手等组件；兼容多种 Linux、NAS 与 ARM/x86-64 环境
+  - GitHub：https://github.com/xiaoyaDev/xiaoya-alist
 
 ## 安全
 
@@ -121,6 +125,15 @@
   - GitHub：https://github.com/iOfficeAI/OfficeCLI
 - **Matt Pocock Skills** — Claude Code 技能集合，涵盖需求澄清（grilling）、领域建模、TDD、代码审查等工程实践，帮助 AI 编程助手更高效地协作
   - GitHub：https://github.com/mattpocock/skills
+- **document-format-skills（公文格式助手）** — 面向 Claude Code、Codex、OpenCode 的中文 Word 文档格式处理 Skill，可诊断排版问题、清理标点和空格、套用公文/论文/法律文书预设，并从文本或 Markdown 生成规范 DOCX
+  - GitHub：https://github.com/KaguraNanaga/document-format-skills
+- **AGENT-v2（Codex Agent 规则）** — 精简有效的 Codex Agent 协作规则示例，涵盖沟通、根因修复、代码质量、结构性问题、规划、验证与差异审查
+  - GitHub：https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md
+  - 便于复制：
+
+    ```markdown
+    [https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md](https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md) 请阅读里面的规则，然后参考这个规则示范重写我们的agent.md规则文件，保持精简有效
+    ```
 
 ---
 
