@@ -9,7 +9,7 @@
 | [压缩/解压](#压缩解压) | 1 |
 | [代理/网络](#代理网络) | 2 |
 | [文件搜索](#文件搜索) | 1 |
-| [系统工具](#系统工具) | 8 |
+| [系统工具](#系统工具) | 9 |
 | [多媒体](#多媒体) | 4 |
 | [安全](#安全) | 1 |
 | [游戏](#游戏) | 3 |
@@ -58,6 +58,8 @@
   - 官网：https://apps.pinnula.ca/en/
 - **Document Format GUI（公文格式处理工具）** — 本地离线的 Word 文档格式修复工具，支持一键规范标点、字体、页边距、行距、序号和表格，可批量处理；覆盖 Windows/macOS/Linux，Windows 支持 `.docx`、`.doc`、`.wps`
   - GitHub：https://github.com/KaguraNanaga/docformat-gui
+- **Watchtower** — 自动监测 Docker 容器镜像更新，拉取新镜像并按原有启动参数优雅重启容器，适合家庭实验室、媒体中心和本地开发环境
+  - GitHub：https://github.com/nicholas-fedor/watchtower
 
 ## 多媒体
 
