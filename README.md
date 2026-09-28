@@ -19,7 +19,7 @@
 | [文件传输](#文件传输) | 1 |
 | [下载工具](#下载工具) | 1 |
 | [文件管理](#文件管理) | 1 |
-| [AI 工具](#ai-工具) | 4 |
+| [AI 工具](#ai-工具) | 5 |
 
 ## 压缩/解压
 
@@ -125,6 +125,8 @@
 
 - **OfficeCLI** — 专为 AI Agent 设计的 Office 文档命令行工具，支持 Word/Excel/PPT 的读写操作和公式计算，无需安装 Office
   - GitHub：https://github.com/iOfficeAI/OfficeCLI
+- **Sub2API** — 开源 AI API 网关，用于统一接入 Claude、OpenAI、Gemini、Grok 等服务并管理订阅额度，支持多账号调度、API Key 分发和用量计费；提供 Linux 二进制与 Docker Compose 部署，许可证为 LGPL-3.0-or-later。项目提示相关用法可能违反上游服务条款，使用前需核实
+  - GitHub：https://github.com/Wei-Shaw/sub2api
 - **Matt Pocock Skills** — Claude Code 技能集合，涵盖需求澄清（grilling）、领域建模、TDD、代码审查等工程实践，帮助 AI 编程助手更高效地协作
   - GitHub：https://github.com/mattpocock/skills
 - **document-format-skills（公文格式助手）** — 面向 Claude Code、Codex、OpenCode 的中文 Word 文档格式处理 Skill，可诊断排版问题、清理标点和空格、套用公文/论文/法律文书预设，并从文本或 Markdown 生成规范 DOCX
