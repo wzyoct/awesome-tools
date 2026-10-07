@@ -19,7 +19,7 @@
 | [文件传输](#文件传输) | 1 |
 | [下载工具](#下载工具) | 1 |
 | [文件管理](#文件管理) | 1 |
-| [AI 工具](#ai-工具) | 5 |
+| [AI 工具](#ai-工具) | 6 |
 
 ## 压缩/解压
 
@@ -123,6 +123,8 @@
 
 ## AI 工具
 
+- **codex-unreconnecting** — 用于缓解 VS Code 中 Codex 持续重连的 Windows/macOS 脚本，通过设置代理环境变量并重启 VS Code 恢复连接；使用前需配置代理地址，Windows 还需修改 VS Code 路径，仓库未声明许可证
+  - GitHub：https://github.com/xjw2003/codex-unreconnecting
 - **OfficeCLI** — 专为 AI Agent 设计的 Office 文档命令行工具，支持 Word/Excel/PPT 的读写操作和公式计算，无需安装 Office
   - GitHub：https://github.com/iOfficeAI/OfficeCLI
 - **Sub2API** — 开源 AI API 网关，用于统一接入 Claude、OpenAI、Gemini、Grok 等服务并管理订阅额度，支持多账号调度、API Key 分发和用量计费；提供 Linux 二进制与 Docker Compose 部署，许可证为 LGPL-3.0-or-later。项目提示相关用法可能违反上游服务条款，使用前需核实
