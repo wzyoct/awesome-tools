@@ -10,7 +10,7 @@
 | [代理/网络](#代理网络) | 2 |
 | [文件搜索](#文件搜索) | 1 |
 | [系统工具](#系统工具) | 9 |
-| [多媒体](#多媒体) | 4 |
+| [多媒体](#多媒体) | 5 |
 | [安全](#安全) | 1 |
 | [游戏](#游戏) | 3 |
 | [输入法](#输入法) | 1 |
@@ -71,6 +71,9 @@
   - GitHub：https://github.com/qwqcode/SubRenamer
 - **小雅 Alist（xiaoya-alist）** — 小雅 Alist 周边的一站式 Docker 部署与管理脚本，支持安装、更新和卸载小雅 Alist、Emby、Jellyfin、元数据爬虫、115 清理助手等组件；兼容多种 Linux、NAS 与 ARM/x86-64 环境
   - GitHub：https://github.com/xiaoyaDev/xiaoya-alist
+
+- **Elgato Wave Link** — 免费音频混音与路由工具，支持 Windows/macOS，音频控制面板直观易用，可通过音效插件实现麦克风降噪，适合直播、会议和日常音频管理
+  - 官网：https://www.elgato.com/us/en/s/wave-link-app
 
 ## 安全
 
