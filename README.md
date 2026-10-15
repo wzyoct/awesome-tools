@@ -1,29 +1,27 @@
-﻿# 🧰 Awesome Tools
+# 🧰 Awesome Tools
 
 个人好用工具软件收藏清单，持续更新中。
 
 ## 📋 目录
 
-| 分类 | 工具数 |
-|------|--------|
-| [压缩/解压](#压缩解压) | 1 |
-| [代理/网络](#代理网络) | 2 |
-| [文件搜索](#文件搜索) | 1 |
-| [系统工具](#系统工具) | 9 |
-| [多媒体](#多媒体) | 5 |
-| [安全](#安全) | 1 |
-| [游戏](#游戏) | 3 |
-| [输入法](#输入法) | 1 |
-| [浏览器](#浏览器) | 2 |
-| [Android 工具](#android-工具) | 3 |
-| [文件传输](#文件传输) | 1 |
-| [下载工具](#下载工具) | 1 |
-| [文件管理](#文件管理) | 1 |
-| [AI 工具](#ai-工具) | 6 |
+- [压缩/解压](#压缩解压)
+- [代理/网络](#代理网络)
+- [文件搜索](#文件搜索)
+- [系统工具](#系统工具)
+- [多媒体](#多媒体)
+- [安全](#安全)
+- [游戏](#游戏)
+- [输入法](#输入法)
+- [浏览器](#浏览器)
+- [Android 工具](#android-工具)
+- [文件传输](#文件传输)
+- [下载工具](#下载工具)
+- [文件管理](#文件管理)
+- [AI 工具](#ai-工具)
 
 ## 压缩/解压
 
-- **NanaZip** — 7-Zip 的现代化开源分支，界面更现代，支持 Windows 新特性
+- **NanaZip** — 7-Zip 的现代化开源分支，支持 Windows 新特性
   - 官网：https://nanazip.org/
 
 ## 代理/网络
@@ -35,14 +33,14 @@
 
 ## 文件搜索
 
-- **Everything** — 极速本地文件搜索引擎，秒级全盘检索，资源占用极低
+- **Everything** — 本地文件搜索工具，支持全盘检索
   - 官网：https://www.voidtools.com/support/everything/
 
 ## 系统工具
 
 - **FanControl** — 轻量级 Windows 风扇转速控制工具
   - GitHub：https://github.com/Rem0o/FanControl.Releases
-- **图吧工具箱** — 硬件检测工具大合集，绿色免安装，装机验机必备
+- **图吧工具箱** — 硬件检测工具合集，免安装
   - 官网：https://www.tbtool.cn/
 - **Windows11轻松设置** — Windows 11 一键优化/配置工具
   - 介绍：https://www.bilibili.com/opus/904672369138729017
@@ -50,39 +48,38 @@
   - 蓝奏盘：https://oyksoft.lanzouu.com/b009i45tzc （密码：95ag）
 - **HiBit Uninstaller** — 免费软件卸载工具，支持强制卸载、残留清理、注册表修复、启动项管理，有安装版和便携版
   - 官网：https://www.hibitsoft.ir/Uninstaller.html
-- **Ventoy** — 开源多系统启动U盘方案，把 ISO 文件直接拷进U盘就能启动，无需格式化，一个U盘可放多个系统，支持 BIOS/UEFI/Secure Boot，兼容 1400+ 镜像
+- **Ventoy** — 开源多系统启动 U 盘工具，拷入 ISO 即可启动，支持 BIOS/UEFI/Secure Boot
   - 官网：https://www.ventoy.net/cn/
-- **ITELLOYOU（我告诉你）** — 原版系统镜像下载入口，运营 18 年，提供微软官方 Windows/Office 镜像获取方式，不捆绑软件，装机必备
+- **ITELLOYOU（我告诉你）** — 原版 Windows/Office 镜像下载入口
   - 官网：https://next.itellyou.cn/
 - **Dynamic Theme** — Windows 动态壁纸工具，自动用 Bing 每日图片或 Windows 聚焦图片更换桌面和锁屏壁纸，免费无广告
   - 官网：https://apps.pinnula.ca/en/
 - **Document Format GUI（公文格式处理工具）** — 本地离线的 Word 文档格式修复工具，支持一键规范标点、字体、页边距、行距、序号和表格，可批量处理；覆盖 Windows/macOS/Linux，Windows 支持 `.docx`、`.doc`、`.wps`
   - GitHub：https://github.com/KaguraNanaga/docformat-gui
-- **Watchtower** — 自动监测 Docker 容器镜像更新，拉取新镜像并按原有启动参数优雅重启容器，适合家庭实验室、媒体中心和本地开发环境
+- **Watchtower** — 自动监测 Docker 镜像更新，拉取镜像并按原有启动参数重启容器
   - GitHub：https://github.com/nicholas-fedor/watchtower
 
 ## 多媒体
 
-- **Syncplay** — 多人远程同步观影工具，支持 mpv/VLC/mpc 等多种播放器，异地一起看电影必备
+- **Syncplay** — 多人远程同步观影工具，支持 mpv/VLC/mpc 等播放器
   - 官网：https://syncplay.pl/download/
-- **mpv** — 极简高性能开源媒体播放器，高度可定制，命令行/脚本友好
+- **mpv** — 开源媒体播放器，支持命令行、脚本和自定义配置
   - GitHub：https://github.com/shinchiro/mpv-winbuild-cmake
 - **SubRenamer** — 字幕文件批量改名工具，自动匹配视频文件名，支持多语言、正则匹配、自动调轴，跨平台（Windows/macOS/Linux）
   - GitHub：https://github.com/qwqcode/SubRenamer
-- **小雅 Alist（xiaoya-alist）** — 小雅 Alist 周边的一站式 Docker 部署与管理脚本，支持安装、更新和卸载小雅 Alist、Emby、Jellyfin、元数据爬虫、115 清理助手等组件；兼容多种 Linux、NAS 与 ARM/x86-64 环境
+- **小雅 Alist（xiaoya-alist）** — 小雅 Alist 及 Emby、Jellyfin、元数据爬虫、115 清理助手等组件的 Docker 部署与管理脚本，支持安装、更新和卸载；兼容 Linux、NAS 与 ARM/x86-64 环境
   - GitHub：https://github.com/xiaoyaDev/xiaoya-alist
-
-- **Elgato Wave Link** — 免费音频混音与路由工具，支持 Windows/macOS，音频控制面板直观易用，可通过音效插件实现麦克风降噪，适合直播、会议和日常音频管理
+- **Elgato Wave Link** — 免费音频混音与路由工具，支持 Windows/macOS，可通过音效插件实现麦克风降噪
   - 官网：https://www.elgato.com/us/en/s/wave-link-app
 
 ## 安全
 
-- **火绒安全** — 国产轻量杀毒软件，安静不弹窗不打扰，适合不想折腾的用户
+- **火绒安全** — Windows 杀毒软件
   - 官网：https://www.huorong.cn/
 
 ## 游戏
 
-- **Steam** — 全球最大 PC 游戏平台，购买、下载、管理、社区一站式搞定
+- **Steam** — PC 游戏购买、下载、管理与社区平台
   - 官网：https://store.steampowered.com/
 - **Watt Toolkit** — 免费开源的多功能 Steam 工具箱，支持 Steam/GitHub/Discord/Epic 等多平台网络加速（本地 hosts 方式，非 VPN），一键切换 Steam 账号，覆盖 Windows/macOS/Linux/Android
   - 官网：https://steampp.net/
@@ -92,14 +89,14 @@
 
 ## 输入法
 
-- **微信输入法** — 腾讯出品的输入法，界面干净无广告，最大亮点是跨设备剪贴板同步——电脑上复制的内容可以直接粘贴到手机上，反过来也行，支持 Windows/macOS/iOS/Android
+- **微信输入法** — 腾讯出品的输入法，支持跨设备剪贴板同步，覆盖 Windows/macOS/iOS/Android
   - 官网：https://z.weixin.qq.com/
 
 ## 浏览器
 
-- **Google Chrome** — Google 出品的浏览器，速度快、扩展生态丰富、开发者工具强大，市场占有率第一
+- **Google Chrome** — Google 浏览器，支持扩展和开发者工具
   - 官网：https://www.google.com/chrome/
-- **Firefox** — Mozilla 出品的独立浏览器，隐私保护为核心，内置跟踪器拦截，不销售用户数据，扩展生态丰富
+- **Firefox** — Mozilla 浏览器，内置跟踪器拦截，支持扩展
   - 官网：https://www.firefox.com/
 
 ## Android 工具
@@ -108,7 +105,6 @@
   - GitHub：https://github.com/topjohnwu/Magisk
 - **LSPosed** — 基于 Magisk 的 Xposed 框架延续，API 完全兼容原版 Xposed，通过模块修改系统和应用行为，支持 Android 8.1~14（⚠️ 项目已于 2026 年 5 月归档，不再维护）
   - GitHub：https://github.com/lsposed/lsposed
-
 - **Pixelify Infinity** — 通过模拟 Pixel 设备属性和功能标志启用 Google Photos 相关功能的 Xposed 模块；需 Android 8.0+、Root 和支持现代 libxposed API 101 的框架，采用 MIT 许可证。功能受设备、应用版本和服务端配置影响，不保证无限备份有效
   - GitHub：https://github.com/samson910022/pixelify-google-photos-modern
 
@@ -124,7 +120,7 @@
 
 ## 文件管理
 
-- **WizTree** — 极速磁盘空间分析工具，直接读取 NTFS 主文件表实现秒级扫描，树状图可视化，个人免费
+- **WizTree** — 磁盘空间分析工具，通过 NTFS 主文件表扫描，以树状图展示占用，个人免费
   - 官网：https://diskanalyzer.com/
 
 ## AI 工具
@@ -135,22 +131,17 @@
   - GitHub：https://github.com/iOfficeAI/OfficeCLI
 - **Sub2API** — 开源 AI API 网关，用于统一接入 Claude、OpenAI、Gemini、Grok 等服务并管理订阅额度，支持多账号调度、API Key 分发和用量计费；提供 Linux 二进制与 Docker Compose 部署，许可证为 LGPL-3.0-or-later。项目提示相关用法可能违反上游服务条款，使用前需核实
   - GitHub：https://github.com/Wei-Shaw/sub2api
-- **Matt Pocock Skills** — Claude Code 技能集合，涵盖需求澄清（grilling）、领域建模、TDD、代码审查等工程实践，帮助 AI 编程助手更高效地协作
+- **Matt Pocock Skills** — Claude Code 技能集合，涵盖需求澄清、领域建模、TDD 和代码审查
   - GitHub：https://github.com/mattpocock/skills
 - **document-format-skills（公文格式助手）** — 面向 Claude Code、Codex、OpenCode 的中文 Word 文档格式处理 Skill，可诊断排版问题、清理标点和空格、套用公文/论文/法律文书预设，并从文本或 Markdown 生成规范 DOCX
   - GitHub：https://github.com/KaguraNanaga/document-format-skills
-- **AGENT-v2（Codex Agent 规则）** — 精简有效的 Codex Agent 协作规则示例，涵盖沟通、根因修复、代码质量、结构性问题、规划、验证与差异审查
+- **AGENT-v2（Codex Agent 规则）** — Codex Agent 协作规则示例，涵盖沟通、规划、代码质量和验证
   - GitHub：https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md
-  - 便于复制：
-
-    ```markdown
-    [https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md](https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md) 请阅读里面的规则，然后参考这个规则示范重写我们的agent.md规则文件，保持精简有效
-    ```
 
 ## 维护说明
 
 - 在本项目中发送工具官网、GitHub 等链接，默认按收录请求处理；明确仅作参考的链接除外。
-- 收录前核实名称、用途、平台和许可证并去重；同步更新两份清单、README 分类计数和 CHANGELOG。
+- 收录前核实名称、用途、平台和许可证并去重；只在 README 维护完整清单，并在 CHANGELOG 记录变更；新增分类时更新目录。
 - 验证通过后自动提交并推送至当前分支的 GitHub 跟踪分支，无需重复确认；仅提交本次相关文件，推送失败保留本地提交并报告，不强制推送。
 
 ---
