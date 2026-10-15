@@ -15,7 +15,7 @@
 | [游戏](#游戏) | 3 |
 | [输入法](#输入法) | 1 |
 | [浏览器](#浏览器) | 2 |
-| [Android 工具](#android-工具) | 2 |
+| [Android 工具](#android-工具) | 3 |
 | [文件传输](#文件传输) | 1 |
 | [下载工具](#下载工具) | 1 |
 | [文件管理](#文件管理) | 1 |
@@ -109,6 +109,9 @@
 - **LSPosed** — 基于 Magisk 的 Xposed 框架延续，API 完全兼容原版 Xposed，通过模块修改系统和应用行为，支持 Android 8.1~14（⚠️ 项目已于 2026 年 5 月归档，不再维护）
   - GitHub：https://github.com/lsposed/lsposed
 
+- **Pixelify Infinity** — 通过模拟 Pixel 设备属性和功能标志启用 Google Photos 相关功能的 Xposed 模块；需 Android 8.0+、Root 和支持现代 libxposed API 101 的框架，采用 MIT 许可证。功能受设备、应用版本和服务端配置影响，不保证无限备份有效
+  - GitHub：https://github.com/samson910022/pixelify-google-photos-modern
+
 ## 文件传输
 
 - **LocalSend** — 开源跨平台局域网文件传输工具，覆盖 Windows/macOS/Linux/Android/iOS，端到端加密，无需注册，数据不经服务器
@@ -143,6 +146,12 @@
     ```markdown
     [https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md](https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md) 请阅读里面的规则，然后参考这个规则示范重写我们的agent.md规则文件，保持精简有效
     ```
+
+## 维护说明
+
+- 在本项目中发送工具官网、GitHub 等链接，默认按收录请求处理；明确仅作参考的链接除外。
+- 收录前核实名称、用途、平台和许可证并去重；同步更新两份清单、README 分类计数和 CHANGELOG。
+- 验证通过后自动提交并推送至当前分支的 GitHub 跟踪分支，无需重复确认；仅提交本次相关文件，推送失败保留本地提交并报告，不强制推送。
 
 ---
 
