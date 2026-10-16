@@ -125,6 +125,9 @@
 
 ## AI 工具
 
+- **REA（Reverse Engineer Anything）** — 面向 AI 智能体的本地逆向分析 CLI 与 MCP 服务，支持原生二进制、JavaScript/Electron、.NET 和网站分析，采用 MIT 许可证；可用于 macOS/Linux/Windows，具体能力随平台和分析引擎而异，原生二进制分析需配合 Hopper、Ghidra 或 IDA 等外部引擎，Windows Ghidra 支持仍属实验性
+  - GitHub：https://github.com/morluto/rea
+  - 官网：https://rea.tools/
 - **codex-unreconnecting** — 用于缓解 VS Code 中 Codex 持续重连的 Windows/macOS 脚本，通过设置代理环境变量并重启 VS Code 恢复连接；使用前需配置代理地址，Windows 还需修改 VS Code 路径，仓库未声明许可证
   - GitHub：https://github.com/xjw2003/codex-unreconnecting
 - **OfficeCLI** — 专为 AI Agent 设计的 Office 文档命令行工具，支持 Word/Excel/PPT 的读写操作和公式计算，无需安装 Office
