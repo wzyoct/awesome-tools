@@ -144,8 +144,13 @@
   - GitHub：https://github.com/mattpocock/skills
 - **document-format-skills（公文格式助手）** — 面向 Claude Code、Codex、OpenCode 的中文 Word 文档格式处理 Skill，可诊断排版问题、清理标点和空格、套用公文/论文/法律文书预设，并从文本或 Markdown 生成规范 DOCX
   - GitHub：https://github.com/KaguraNanaga/document-format-skills
-- **AGENT-v2（Codex Agent 规则）** — Codex Agent 协作规则示例，涵盖沟通、规划、代码质量和验证
+- **AGENT-v2（Codex Agent 规则）** — 精简有效的 Codex Agent 协作规则示例，涵盖沟通、根因修复、代码质量、结构性问题、规划、验证与差异审查
   - GitHub：https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md
+  - 便于复制：
+
+    ```markdown
+    [https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md](https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md) 请阅读里面的规则，然后参考这个规则示范重写我们的agent.md规则文件，保持精简有效
+    ```
 
 ## 维护说明
 
