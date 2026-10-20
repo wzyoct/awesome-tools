@@ -17,6 +17,7 @@
 - [文件传输](#文件传输)
 - [下载工具](#下载工具)
 - [文件管理](#文件管理)
+- [文档处理](#文档处理)
 - [AI 工具](#ai-工具)
 
 ## 压缩/解压
@@ -122,6 +123,11 @@
 
 - **WizTree** — 磁盘空间分析工具，通过 NTFS 主文件表扫描，以树状图展示占用，个人免费
   - 官网：https://diskanalyzer.com/
+
+## 文档处理
+
+- **Marker** — 开源文档转换工具，可将 PDF 等格式转换为 Markdown、JSON、HTML 等，支持表格、公式、图片提取和 OCR；代码采用 Apache-2.0 许可证，模型权重另有许可条件
+  - GitHub：https://github.com/datalab-to/marker
 
 ## AI 工具
 
