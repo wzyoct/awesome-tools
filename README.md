@@ -72,6 +72,9 @@
   - GitHub：https://github.com/xiaoyaDev/xiaoya-alist
 - **Elgato Wave Link** — 免费音频混音与路由工具，支持 Windows/macOS，可通过音效插件实现麦克风降噪
   - 官网：https://www.elgato.com/us/en/s/wave-link-app
+- **SiteCam（工程水印相机）** — 免费开源、无广告的工程现场记录工具，支持拍照及导入照片加水印、按工程整理、问题标注和资料导出；支持 Android 8.0+ 与 HarmonyOS，采用 MIT 许可证
+  - 官网：https://yuriaqua.com/sitecam/
+  - GitHub：https://github.com/toydream525/SiteCam
 
 ## 安全
 
