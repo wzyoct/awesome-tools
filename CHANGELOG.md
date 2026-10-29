@@ -1,5 +1,9 @@
 # 更新日志
 
+## 2026-10-29：精简 UI/UX 改造提示词
+
+- 精简 README 中的配套提示词，突出三个 Skills 在设计规则、视觉实现和审查修复中的职责与衔接，保留必要的功能保护、运行验证和交付要求。
+
 ## 2026-10-29：收录 UI/UX 设计 Skills
 
 - 在 README 的“AI 工具”分类收录 UI/UX Pro Max、Frontend Design 和 Web Design Guidelines，并保存配套的完整 UI/UX 改造提示词。
