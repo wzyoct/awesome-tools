@@ -1,5 +1,9 @@
 # 更新日志
 
+## 2026-10-29：收录 UI/UX 设计 Skills
+
+- 在 README 的“AI 工具”分类收录 UI/UX Pro Max、Frontend Design 和 Web Design Guidelines，并保存配套的完整 UI/UX 改造提示词。
+
 ## 2026-10-22：收录 SiteCam
 
 - 在 README 的“多媒体”分类收录 SiteCam 工程水印相机，记录水印拍摄、工程整理、问题标注和资料导出功能，以及支持平台和 MIT 许可证。
