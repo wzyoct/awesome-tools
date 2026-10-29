@@ -2,6 +2,8 @@
 
 个人好用工具软件收藏清单，持续更新中。
 
+📝 [提示词清单](提示词清单.md)：集中查看和复制提示词。
+
 ## 📋 目录
 
 - [压缩/解压](#压缩解压)
@@ -149,61 +151,20 @@
   - GitHub：https://github.com/KaguraNanaga/document-format-skills
 - **UI/UX Pro Max** — 面向 Claude Code、Codex 等 AI 编码工具的设计 Skill，提供设计系统、配色、字体、UX 和多种技术栈的建议；采用 MIT 许可证
   - GitHub：https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+  - 配套提示词：[UI 和 UX 改造提示词](提示词清单.md#ui-和-ux-改造提示词)
 - **Frontend Design** — Anthropic 的前端设计 Skill，指导界面的视觉方向、排版和布局，适用于 Claude Code、Claude.ai 和 Claude API；采用 Apache-2.0 许可证
   - GitHub：https://github.com/anthropics/skills/tree/main/skills/frontend-design
+  - 配套提示词：[UI 和 UX 改造提示词](提示词清单.md#ui-和-ux-改造提示词)
 - **Web Design Guidelines** — Vercel 的界面审查 Skill，按 Web 界面规范检查可访问性、性能和用户体验，适用于支持 Agent Skills 的 AI 编码工具；仓库 README 声明 MIT 许可证
   - GitHub：https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines
+  - 配套提示词：[UI 和 UX 改造提示词](提示词清单.md#ui-和-ux-改造提示词)
 - **AGENT-v2（Codex Agent 规则）** — 精简有效的 Codex Agent 协作规则示例，涵盖沟通、根因修复、代码质量、结构性问题、规划、验证与差异审查
   - GitHub：https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md
-  - 便于复制：
-
-    ```markdown
-    [https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md](https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md) 请阅读里面的规则，然后参考这个规则示范重写我们的agent.md规则文件，保持精简有效
-    ```
-
-### UI/UX 改造配套提示词
-
-```markdown
-# 使用三个专业 Skills 优化现有 Web 界面
-
-请优化当前项目已有的 Web 界面，在保留现有功能的前提下，提升视觉品质、操作体验和设计一致性。根据产品用途设计，避免套用千篇一律的模板。
-
-按以下分工分阶段使用三个 Skills：
-
-## 1. `$ui-ux-pro-max`：确定设计系统与 UX 规则
-
-先了解项目用途、用户流程、技术栈和已有组件体系，找出主要体验问题。
-
-结合 Skill 的设计资料，确定适合本项目的配色、字体、间距、组件状态、响应式布局和可访问性要求。优先完善已有规范，形成后续实现共用的一套设计规则。
-
-## 2. `$frontend-design`：完成视觉设计与代码改造
-
-基于前一步的设计规则，优化页面布局、排版、视觉层级和实际组件，并直接修改现有代码。
-
-重点解决界面的表现力、精致度和辨识度，让设计符合产品自身特点。避免无意义的装饰、留白和动画，也不要为追求视觉效果牺牲信息密度与操作效率。
-
-发现设计规则不适合实际页面时，调整并同步规则，保持整站一致。
-
-## 3. `$web-design-guidelines`：单独审查并推动修复
-
-完成实现后，读取最新规范，单独进行一轮审查。
-
-检查可访问性、键盘操作、焦点、表单反馈、响应式布局及交互细节。指出具体问题位置，按严重程度修复，并重新验证；不要只输出审查报告。
-
-三个 Skills 按“确定规则 → 设计实现 → 审查修复”接续使用，不必在每个阶段重复调用全部 Skills。
-
-## 基本要求
-
-- 保护用户已有改动，保留现有业务功能、路由和 API 兼容性，优先复用当前技术栈与组件。
-- 一般设计和实现决策自主完成；重要功能取舍、大范围重构或破坏性操作先确认。
-- 实际检查桌面端、移动端和关键交互；无法验证的内容如实说明。
-- 沿用项目现有流程完成必要的构建、部署和相关服务重启，确认最新修改生效、网页正常访问。
-- 最后用简体中文简述主要改动、三个 Skills 的实际作用、验证结果、未解决问题及访问地址。
-```
+  - 配套提示词：[AGENT-v2 规则提示词](提示词清单.md#agent-v2-规则提示词)
 
 ## 维护说明
 
-完整工具清单统一维护在本 README，收录流程见 [AGENTS.md](AGENTS.md)。
+完整工具清单统一维护在本 README，提示词统一维护在[提示词清单](提示词清单.md)，收录流程见 [AGENTS.md](AGENTS.md)。
 
 ---
 
