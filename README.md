@@ -141,6 +141,10 @@
 
 ## AI 工具
 
+- **agent-qa**：用自然语言测试网页、Android 和 iOS 用户流程，内置持久化 memidex 记忆、经验证的自我改进及步骤截图；支持 CLI、面板与 MCP。需 Node.js 24+ 和已配置的模型及浏览器/设备环境。FSL-1.1-ALv2 允许的本地使用免费，限制竞争性商业使用；模型与设备费用另计。
+  - 官网：<https://vostride.com>
+  - 源码与许可证：<https://github.com/vostride/agent-qa>
+
 - **REA（Reverse Engineer Anything）** — 面向 AI 智能体的本地逆向分析 CLI 与 MCP 服务，支持原生二进制、JavaScript/Electron、.NET 和网站分析，采用 MIT 许可证；可用于 macOS/Linux/Windows，具体能力随平台和分析引擎而异，原生二进制分析需配合 Hopper、Ghidra 或 IDA 等外部引擎，Windows Ghidra 支持仍属实验性
   - GitHub：https://github.com/morluto/rea
   - 官网：https://rea.tools/
