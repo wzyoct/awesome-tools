@@ -66,6 +66,8 @@
 
 ## 多媒体
 
+- **HivisionIDPhotos** — 开源 AI 证件照制作工具，支持人像抠图、调整尺寸和底色、生成打印排版照；支持 Windows/macOS/Linux，仓库采用 Apache-2.0 许可证
+  - GitHub：https://github.com/Zeyi-Lin/HivisionIDPhotos
 - **Syncplay** — 多人远程同步观影工具，支持 mpv/VLC/mpc 等播放器
   - 官网：https://syncplay.pl/download/
 - **mpv** — 开源媒体播放器，支持命令行、脚本和自定义配置
