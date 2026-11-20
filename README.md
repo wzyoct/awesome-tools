@@ -160,16 +160,16 @@
   - GitHub：https://github.com/KaguraNanaga/document-format-skills
 - **UI/UX Pro Max** — 面向 Claude Code、Codex 等 AI 编码工具的设计 Skill，提供设计系统、配色、字体、UX 和多种技术栈的建议；采用 MIT 许可证
   - GitHub：https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-  - 配套提示词：[专业网页设计、开发与部署工作流](提示词清单.md#专业网页设计开发与部署工作流)
+  - 配套提示词：[简洁设计与开发原则](提示词清单.md#简洁设计与开发原则)
 - **Taste Skill** — 面向 Codex、Claude Code 等 AI 编码工具的前端设计 Skill，提供网页和应用界面的设计方向，并通过真实浏览器检查和截图迭代改进效果；采用 MIT 许可证
   - GitHub：https://github.com/Leonxlnx/taste-skill
-  - 配套提示词：[专业网页设计、开发与部署工作流](提示词清单.md#专业网页设计开发与部署工作流)
+  - 配套提示词：[简洁设计与开发原则](提示词清单.md#简洁设计与开发原则)
 - **Frontend Design** — Anthropic 的前端设计 Skill，指导界面的视觉方向、排版和布局，适用于 Claude Code、Claude.ai 和 Claude API；采用 Apache-2.0 许可证
   - GitHub：https://github.com/anthropics/skills/tree/main/skills/frontend-design
-  - 配套提示词：[专业网页设计、开发与部署工作流](提示词清单.md#专业网页设计开发与部署工作流)
+  - 配套提示词：[简洁设计与开发原则](提示词清单.md#简洁设计与开发原则)
 - **Web Design Guidelines** — Vercel 的界面审查 Skill，按 Web 界面规范检查可访问性、性能和用户体验，适用于支持 Agent Skills 的 AI 编码工具；仓库 README 声明 MIT 许可证
   - GitHub：https://github.com/vercel-labs/agent-skills/tree/main/skills/web-design-guidelines
-  - 配套提示词：[专业网页设计、开发与部署工作流](提示词清单.md#专业网页设计开发与部署工作流)
+  - 配套提示词：[简洁设计与开发原则](提示词清单.md#简洁设计与开发原则)
 - **AGENT-v2（Codex Agent 规则）** — 精简有效的 Codex Agent 协作规则示例，涵盖沟通、根因修复、代码质量、结构性问题、规划、验证与差异审查
   - GitHub：https://github.com/lili-luo/aicoding-cookbook/blob/main/skills/codex/AGENT-v2.md
   - 配套提示词：[重构 Codex Agent 全局规则](提示词清单.md#重构-codex-agent-全局规则)
