@@ -70,8 +70,9 @@
   - GitHub：https://github.com/Zeyi-Lin/HivisionIDPhotos
 - **Syncplay** — 多人远程同步观影工具，支持 mpv/VLC/mpc 等播放器
   - 官网：https://syncplay.pl/download/
-- **mpv** — 开源媒体播放器，支持命令行、脚本和自定义配置
-  - GitHub：https://github.com/shinchiro/mpv-winbuild-cmake
+- **mpv** — 开源跨平台媒体播放器，支持命令行、脚本和自定义配置
+  - 官网：https://mpv.io/
+  - Windows 构建（第三方）：https://github.com/shinchiro/mpv-winbuild-cmake
 - **SubRenamer** — 字幕文件批量改名工具，自动匹配视频文件名，支持多语言、正则匹配、自动调轴，跨平台（Windows/macOS/Linux）
   - GitHub：https://github.com/qwqcode/SubRenamer
 - **小雅 Alist（xiaoya-alist）** — 小雅 Alist 及 Emby、Jellyfin、元数据爬虫、115 清理助手等组件的 Docker 部署与管理脚本，支持安装、更新和卸载；兼容 Linux、NAS 与 ARM/x86-64 环境
@@ -113,7 +114,7 @@
 
 - **Magisk** — Android 开源 root 方案，systemless 模式不破坏 OTA 更新，通过模块扩展系统功能，支持 Android 6.0+
   - GitHub：https://github.com/topjohnwu/Magisk
-- **LSPosed** — 基于 Magisk 的 Xposed 框架延续，API 完全兼容原版 Xposed，通过模块修改系统和应用行为，支持 Android 8.1~14（⚠️ 项目已于 2026 年 5 月归档，不再维护）
+- **LSPosed** — 基于 Magisk 的 Xposed 框架延续，API 完全兼容原版 Xposed，通过模块修改系统和应用行为，支持 Android 8.1~14（⚠️ 最近一个正式版 v1.9.2 发布于 2023 年 10 月，使用前请核实兼容性）
   - GitHub：https://github.com/lsposed/lsposed
 - **Pixelify Infinity** — 通过模拟 Pixel 设备属性和功能标志启用 Google Photos 相关功能的 Xposed 模块；需 Android 8.0+、Root 和支持现代 libxposed API 101 的框架，采用 MIT 许可证。功能受设备、应用版本和服务端配置影响，不保证无限备份有效
   - GitHub：https://github.com/samson910022/pixelify-google-photos-modern
