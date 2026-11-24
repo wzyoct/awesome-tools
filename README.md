@@ -144,6 +144,9 @@
 
 ## AI 工具
 
+- **T3 Code** — 开源 AI 编程 Agent 管理平台，统一接入 Claude Code、Codex、Cursor、OpenCode 等工具，支持多任务并行、Git Worktree 隔离、差异审查及跨设备远程控制；覆盖 Windows/macOS/Linux、Web、iOS/Android，源代码采用 MIT 许可证，需使用已有 Agent 凭证。当前源码默认启用遥测，可设置 `T3CODE_TELEMETRY_ENABLED=false` 关闭服务端遥测
+  - 官网：https://t3.codes/
+  - GitHub：https://github.com/pingdotgg/t3code
 - **REA（Reverse Engineer Anything）** — 面向 AI 智能体的本地逆向分析 CLI 与 MCP 服务，支持原生二进制、JavaScript/Electron、.NET 和网站分析，采用 MIT 许可证；可用于 macOS/Linux/Windows，具体能力随平台和分析引擎而异，原生二进制分析需配合 Hopper、Ghidra 或 IDA 等外部引擎，Windows Ghidra 支持仍属实验性
   - GitHub：https://github.com/morluto/rea
   - 官网：https://rea.tools/
