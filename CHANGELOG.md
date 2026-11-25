@@ -1,5 +1,10 @@
 # 更新日志
 
+## 2026-11-26：收录 Office Tool Plus 和 Antigravity-Hans
+
+- 在“系统工具”收录 Office Tool Plus，记录 Office 部署、配置、修复与激活管理功能及 MIT 许可证。
+- 在“AI 工具”收录 Antigravity-Hans，记录 Antigravity/IDE 中文汉化能力、支持平台及未声明许可证的情况。
+
 ## 2026-11-25：收录 T3 Code
 
 - 在“AI 工具”分类收录 T3 Code，记录多 Agent 管理、Git 集成、跨设备支持、MIT 许可证及默认遥测注意事项。
