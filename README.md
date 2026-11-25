@@ -57,6 +57,9 @@
   - 官网：https://www.ventoy.net/cn/
 - **ITELLOYOU（我告诉你）** — 原版 Windows/Office 镜像下载入口
   - 官网：https://next.itellyou.cn/
+- **Office Tool Plus** — 基于 Microsoft Office Deployment Tool 的 Windows Office 部署与管理工具，支持 Microsoft 365、Office、Visio 和 Project 的下载、安装配置、语言/组件管理、ISO 制作、更新通道切换、修复卸载及激活管理；采用 MIT 许可证，激活需使用正版许可证
+  - 官网：https://www.officetool.plus/
+  - GitHub：https://github.com/YerongAI/Office-Tool
 - **Dynamic Theme** — Windows 动态壁纸工具，自动用 Bing 每日图片或 Windows 聚焦图片更换桌面和锁屏壁纸，免费无广告
   - 官网：https://apps.pinnula.ca/en/
 - **Document Format GUI（公文格式处理工具）** — 本地离线的 Word 文档格式修复工具，支持一键规范标点、字体、页边距、行距、序号和表格，可批量处理；覆盖 Windows/macOS/Linux，Windows 支持 `.docx`、`.doc`、`.wps`
@@ -147,6 +150,8 @@
 - **T3 Code** — 开源 AI 编程 Agent 管理平台，统一接入 Claude Code、Codex、Cursor、OpenCode 等工具，支持多任务并行、Git Worktree 隔离、差异审查及跨设备远程控制；覆盖 Windows/macOS/Linux、Web、iOS/Android，源代码采用 MIT 许可证，需使用已有 Agent 凭证。当前源码默认启用遥测，可设置 `T3CODE_TELEMETRY_ENABLED=false` 关闭服务端遥测
   - 官网：https://t3.codes/
   - GitHub：https://github.com/pingdotgg/t3code
+- **Antigravity-Hans** — Google Antigravity 与 Antigravity IDE 的中文汉化工具，支持 Windows/macOS/Linux，提供动态汉化、IDE 静态补丁及中英切换；仓库未声明许可证
+  - GitHub：https://github.com/yuexps/Antigravity-Hans
 - **REA（Reverse Engineer Anything）** — 面向 AI 智能体的本地逆向分析 CLI 与 MCP 服务，支持原生二进制、JavaScript/Electron、.NET 和网站分析，采用 MIT 许可证；可用于 macOS/Linux/Windows，具体能力随平台和分析引擎而异，原生二进制分析需配合 Hopper、Ghidra 或 IDA 等外部引擎，Windows Ghidra 支持仍属实验性
   - GitHub：https://github.com/morluto/rea
   - 官网：https://rea.tools/
