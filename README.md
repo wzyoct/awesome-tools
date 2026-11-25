@@ -60,6 +60,11 @@
 - **Office Tool Plus** — 基于 Microsoft Office Deployment Tool 的 Windows Office 部署与管理工具，支持 Microsoft 365、Office、Visio 和 Project 的下载、安装配置、语言/组件管理、ISO 制作、更新通道切换、修复卸载及激活管理；采用 MIT 许可证，激活需使用正版许可证
   - 官网：https://www.officetool.plus/
   - GitHub：https://github.com/YerongAI/Office-Tool
+- **Microsoft Activation Scripts（MAS）** — Windows、Office 与 ESU 激活及故障排查脚本，提供 HWID、Ohook、TSforge、Online KMS 等方式；采用 GPL-3.0 许可证。部分方式可能涉及绕过官方激活验证，请确认符合软件许可条款；PowerShell 在线入口会直接执行远程脚本，执行前应核实域名并审阅脚本内容
+  - 官网：https://massgrave.dev/
+  - GitHub：https://github.com/massgravel/Microsoft-Activation-Scripts
+- **HEU KMS Activator** — Windows/Office 激活工具，涉及 KMS、数字许可证及电话激活等方式；仓库未声明许可证，README 信息有限，发布页提供预编译 EXE，建议谨慎评估来源与文件安全性
+  - GitHub：https://github.com/zbezj/HEU_KMS_Activator
 - **Dynamic Theme** — Windows 动态壁纸工具，自动用 Bing 每日图片或 Windows 聚焦图片更换桌面和锁屏壁纸，免费无广告
   - 官网：https://apps.pinnula.ca/en/
 - **Document Format GUI（公文格式处理工具）** — 本地离线的 Word 文档格式修复工具，支持一键规范标点、字体、页边距、行距、序号和表格，可批量处理；覆盖 Windows/macOS/Linux，Windows 支持 `.docx`、`.doc`、`.wps`
