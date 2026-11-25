@@ -1,5 +1,10 @@
 # 更新日志
 
+## 2026-11-26：收录 MAS 和 HEU KMS Activator
+
+- 在“系统工具”收录 Microsoft Activation Scripts（MAS），记录支持的激活/排障方式、GPL-3.0 许可证，以及远程 PowerShell 执行和许可合规注意事项。
+- 收录 HEU KMS Activator，注明其激活功能、未声明许可证、仓库说明有限及预编译程序的来源评估提醒。
+
 ## 2026-11-26：收录 Office Tool Plus 和 Antigravity-Hans
 
 - 在“系统工具”收录 Office Tool Plus，记录 Office 部署、配置、修复与激活管理功能及 MIT 许可证。
